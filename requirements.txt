@@ -1,0 +1,10 @@
+gunicorn
+ccxt
+requests
+flask
+python-dateutil
+pytz
+numpy
+python-telegram-bot
+pandas
+redis
