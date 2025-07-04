@@ -16,7 +16,7 @@ import pandas as pd
 import numpy as np
 
 # === CONFIG ===
-BOT_TOKEN = os.getenv('BOT_TOKEN', '7662307654:AAG5-juB1faNaFZfC8zjf4LwlZMzs6lEmtE')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '7402265241:AAHRDxd12LRizl1qTsQggEEoJ-BeWME3ERo')
 CHAT_ID = os.getenv('CHAT_ID', '655537138')
 REDIS_HOST = os.getenv('REDIS_HOST', 'climbing-narwhal-53855.upstash.io')
 REDIS_PORT = os.getenv('REDIS_PORT', 6379)
